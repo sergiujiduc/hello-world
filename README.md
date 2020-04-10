@@ -1,2 +1,7 @@
 # hello-world
-Test repository 
+
+I'm Sergiu! 
+
+Environmental scientist and Explorer. 
+I like mountains!
+
